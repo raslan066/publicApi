@@ -4,10 +4,10 @@ This Test Suite is Based on Java 8 Lenguage, uses TestNg Testing tool. It has Ex
 
 ## Installation
 
-Clone the repository from [git](https://<Git Library name>).
+Clone the repository from https://github.com/raslan066/publicApi.git.
 
 ```bash
-git clone <reposity Url>
+git clone https://github.com/raslan066/publicApi.git
 ```
 
 ## Usage
