@@ -1,0 +1,552 @@
+2020.09.23 00:58:19.811 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass logger user has been logged in successfully!
+2020.09.23 00:58:19.816 -  INFO - TestNG-tests-1 - GetAPITest.java:124 - Response Headers:
+2020.09.23 00:58:19.817 -  INFO - TestNG-tests-1 - GetAPITest.java:124 - =================
+2020.09.23 00:58:19.817 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Date: Wed, 23 Sep 2020 05:58:19 GMT
+
+2020.09.23 00:58:19.817 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Content-Type: application/json
+
+2020.09.23 00:58:19.818 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Transfer-Encoding: chunked
+
+2020.09.23 00:58:19.818 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Connection: keep-alive
+
+2020.09.23 00:58:19.818 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Access-Control-Allow-Origin: *
+
+2020.09.23 00:58:19.818 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+
+2020.09.23 00:58:19.819 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+
+2020.09.23 00:58:19.819 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass X-Expires-After: Wed Sep 23 06:58:19 UTC 2020
+
+2020.09.23 00:58:19.819 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass X-Rate-Limit: 5000
+
+2020.09.23 00:58:19.820 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Server: Jetty(9.2.9.v20150224)
+
+2020.09.23 00:58:20.053 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Logged out successfully!
+2020.09.23 00:58:20.054 -  INFO - TestNG-tests-1 - GetAPITest.java:124 - Response Headers:
+2020.09.23 00:58:20.054 -  INFO - TestNG-tests-1 - GetAPITest.java:124 - =================
+2020.09.23 00:58:20.056 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Date: Wed, 23 Sep 2020 05:58:20 GMT
+
+2020.09.23 00:58:20.057 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Content-Type: application/json
+
+2020.09.23 00:58:20.057 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Transfer-Encoding: chunked
+
+2020.09.23 00:58:20.057 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Connection: keep-alive
+
+2020.09.23 00:58:20.058 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Access-Control-Allow-Origin: *
+
+2020.09.23 00:58:20.058 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+
+2020.09.23 00:58:20.058 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+
+2020.09.23 00:58:20.059 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Server: Jetty(9.2.9.v20150224)
+
+2020.09.23 00:59:21.463 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass logger user has been logged in successfully!
+2020.09.23 00:59:21.468 -  INFO - TestNG-tests-1 - GetAPITest.java:124 - Response Headers:
+2020.09.23 00:59:21.468 -  INFO - TestNG-tests-1 - GetAPITest.java:124 - =================
+2020.09.23 00:59:21.469 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Date: Wed, 23 Sep 2020 05:59:21 GMT
+
+2020.09.23 00:59:21.469 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Content-Type: application/json
+
+2020.09.23 00:59:21.469 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Transfer-Encoding: chunked
+
+2020.09.23 00:59:21.470 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Connection: keep-alive
+
+2020.09.23 00:59:21.470 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Access-Control-Allow-Origin: *
+
+2020.09.23 00:59:21.470 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+
+2020.09.23 00:59:21.471 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+
+2020.09.23 00:59:21.471 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass X-Expires-After: Wed Sep 23 06:59:21 UTC 2020
+
+2020.09.23 00:59:21.471 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass X-Rate-Limit: 5000
+
+2020.09.23 00:59:21.471 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Server: Jetty(9.2.9.v20150224)
+
+2020.09.23 00:59:21.718 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Logged out successfully!
+2020.09.23 00:59:21.718 -  INFO - TestNG-tests-1 - GetAPITest.java:124 - Response Headers:
+2020.09.23 00:59:21.719 -  INFO - TestNG-tests-1 - GetAPITest.java:124 - =================
+2020.09.23 00:59:21.720 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Date: Wed, 23 Sep 2020 05:59:21 GMT
+
+2020.09.23 00:59:21.721 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Content-Type: application/json
+
+2020.09.23 00:59:21.721 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Transfer-Encoding: chunked
+
+2020.09.23 00:59:21.722 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Connection: keep-alive
+
+2020.09.23 00:59:21.722 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Access-Control-Allow-Origin: *
+
+2020.09.23 00:59:21.722 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+
+2020.09.23 00:59:21.723 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+
+2020.09.23 00:59:21.723 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Server: Jetty(9.2.9.v20150224)
+
+2020.09.23 01:00:25.360 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass logger user has been logged in successfully!
+2020.09.23 01:00:25.365 -  INFO - TestNG-tests-1 - GetAPITest.java:124 - Response Headers:
+2020.09.23 01:00:25.365 -  INFO - TestNG-tests-1 - GetAPITest.java:124 - =================
+2020.09.23 01:00:25.365 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Date: Wed, 23 Sep 2020 06:00:25 GMT
+
+2020.09.23 01:00:25.366 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Content-Type: application/json
+
+2020.09.23 01:00:25.366 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Transfer-Encoding: chunked
+
+2020.09.23 01:00:25.366 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Connection: keep-alive
+
+2020.09.23 01:00:25.367 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Access-Control-Allow-Origin: *
+
+2020.09.23 01:00:25.367 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+
+2020.09.23 01:00:25.367 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+
+2020.09.23 01:00:25.368 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass X-Expires-After: Wed Sep 23 07:00:25 UTC 2020
+
+2020.09.23 01:00:25.368 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass X-Rate-Limit: 5000
+
+2020.09.23 01:00:25.368 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Server: Jetty(9.2.9.v20150224)
+
+2020.09.23 01:00:25.607 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Logged out successfully!
+2020.09.23 01:00:25.608 -  INFO - TestNG-tests-1 - GetAPITest.java:124 - Response Headers:
+2020.09.23 01:00:25.608 -  INFO - TestNG-tests-1 - GetAPITest.java:124 - =================
+2020.09.23 01:00:25.610 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Date: Wed, 23 Sep 2020 06:00:25 GMT
+
+2020.09.23 01:00:25.611 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Content-Type: application/json
+
+2020.09.23 01:00:25.611 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Transfer-Encoding: chunked
+
+2020.09.23 01:00:25.611 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Connection: keep-alive
+
+2020.09.23 01:00:25.611 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Access-Control-Allow-Origin: *
+
+2020.09.23 01:00:25.612 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+
+2020.09.23 01:00:25.612 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+
+2020.09.23 01:00:25.612 -  INFO - TestNG-tests-1 - GetAPITest.java:121 - pass Server: Jetty(9.2.9.v20150224)
+
+2020.09.23 01:04:10.976 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - ---------------------------- Executing login ----------------------------
+2020.09.23 01:04:11.594 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass logger user has been logged in successfully!
+2020.09.23 01:04:11.596 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - Response Headers:
+2020.09.23 01:04:11.597 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - =================
+2020.09.23 01:04:11.597 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Date: Wed, 23 Sep 2020 06:04:11 GMT
+
+2020.09.23 01:04:11.597 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Content-Type: application/json
+
+2020.09.23 01:04:11.598 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Transfer-Encoding: chunked
+
+2020.09.23 01:04:11.598 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Connection: keep-alive
+
+2020.09.23 01:04:11.598 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Origin: *
+
+2020.09.23 01:04:11.599 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+
+2020.09.23 01:04:11.599 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+
+2020.09.23 01:04:11.599 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass X-Expires-After: Wed Sep 23 07:04:11 UTC 2020
+
+2020.09.23 01:04:11.600 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass X-Rate-Limit: 5000
+
+2020.09.23 01:04:11.600 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Server: Jetty(9.2.9.v20150224)
+
+2020.09.23 01:04:52.184 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - ---------------------------- Executing login ----------------------------
+2020.09.23 01:04:52.802 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass logger user has been logged in successfully!
+2020.09.23 01:04:52.805 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - Response Headers:
+2020.09.23 01:04:52.805 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - =================
+2020.09.23 01:04:52.805 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Date: Wed, 23 Sep 2020 06:04:52 GMT
+
+2020.09.23 01:04:52.806 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Content-Type: application/json
+
+2020.09.23 01:04:52.806 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Transfer-Encoding: chunked
+
+2020.09.23 01:04:52.806 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Connection: keep-alive
+
+2020.09.23 01:04:52.806 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Origin: *
+
+2020.09.23 01:04:52.807 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+
+2020.09.23 01:04:52.807 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+
+2020.09.23 01:04:52.807 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass X-Expires-After: Wed Sep 23 07:04:52 UTC 2020
+
+2020.09.23 01:04:52.808 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass X-Rate-Limit: 5000
+
+2020.09.23 01:04:52.808 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Server: Jetty(9.2.9.v20150224)
+
+2020.09.23 01:04:52.814 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - ---------------------------- Executing logout ----------------------------
+2020.09.23 01:04:53.050 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Logged out successfully!
+2020.09.23 01:04:53.052 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - Response Headers:
+2020.09.23 01:04:53.052 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - =================
+2020.09.23 01:04:53.053 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Date: Wed, 23 Sep 2020 06:04:53 GMT
+
+2020.09.23 01:04:53.053 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Content-Type: application/json
+
+2020.09.23 01:04:53.053 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Transfer-Encoding: chunked
+
+2020.09.23 01:04:53.054 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Connection: keep-alive
+
+2020.09.23 01:04:53.054 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Origin: *
+
+2020.09.23 01:04:53.054 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+
+2020.09.23 01:04:53.055 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+
+2020.09.23 01:04:53.055 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Server: Jetty(9.2.9.v20150224)
+
+2020.09.23 01:06:34.359 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - ---------------------------- Executing login ----------------------------
+2020.09.23 01:06:34.978 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass logger user has been logged in successfully!
+2020.09.23 01:06:34.980 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - Response Headers:
+2020.09.23 01:06:34.981 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - =================
+2020.09.23 01:06:34.981 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Date: Wed, 23 Sep 2020 06:06:34 GMT
+
+2020.09.23 01:06:34.981 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Content-Type: application/json
+
+2020.09.23 01:06:34.982 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Transfer-Encoding: chunked
+
+2020.09.23 01:06:34.982 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Connection: keep-alive
+
+2020.09.23 01:06:34.982 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Origin: *
+
+2020.09.23 01:06:34.982 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+
+2020.09.23 01:06:34.983 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+
+2020.09.23 01:06:34.983 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass X-Expires-After: Wed Sep 23 07:06:34 UTC 2020
+
+2020.09.23 01:06:34.983 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass X-Rate-Limit: 5000
+
+2020.09.23 01:06:34.984 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Server: Jetty(9.2.9.v20150224)
+
+2020.09.23 01:06:34.991 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - ---------------------------- Executing logout ----------------------------
+2020.09.23 01:06:35.230 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Logged out successfully!
+2020.09.23 01:06:35.232 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - Response Headers:
+2020.09.23 01:06:35.233 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - =================
+2020.09.23 01:06:35.235 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Date: Wed, 23 Sep 2020 06:06:35 GMT
+
+2020.09.23 01:06:35.236 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Content-Type: application/json
+
+2020.09.23 01:06:35.236 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Transfer-Encoding: chunked
+
+2020.09.23 01:06:35.236 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Connection: keep-alive
+
+2020.09.23 01:06:35.237 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Origin: *
+
+2020.09.23 01:06:35.237 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+
+2020.09.23 01:06:35.237 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+
+2020.09.23 01:06:35.237 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Server: Jetty(9.2.9.v20150224)
+
+2020.09.23 01:06:55.899 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - ---------------------------- Executing login ----------------------------
+2020.09.23 01:06:56.454 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass logger user has been logged in successfully!
+2020.09.23 01:06:56.456 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - Response Headers:
+2020.09.23 01:06:56.456 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - =================
+2020.09.23 01:06:56.456 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Date: Wed, 23 Sep 2020 06:06:56 GMT
+
+2020.09.23 01:06:56.457 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Content-Type: application/json
+
+2020.09.23 01:06:56.457 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Transfer-Encoding: chunked
+
+2020.09.23 01:06:56.457 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Connection: keep-alive
+
+2020.09.23 01:06:56.458 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Origin: *
+
+2020.09.23 01:06:56.458 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+
+2020.09.23 01:06:56.458 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+
+2020.09.23 01:06:56.459 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass X-Expires-After: Wed Sep 23 07:06:56 UTC 2020
+
+2020.09.23 01:06:56.459 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass X-Rate-Limit: 5000
+
+2020.09.23 01:06:56.459 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Server: Jetty(9.2.9.v20150224)
+
+2020.09.23 01:06:56.466 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - ---------------------------- Executing logout ----------------------------
+2020.09.23 01:06:56.692 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Logged out successfully!
+2020.09.23 01:06:56.694 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - Response Headers:
+2020.09.23 01:06:56.695 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - =================
+2020.09.23 01:06:56.697 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Date: Wed, 23 Sep 2020 06:06:56 GMT
+
+2020.09.23 01:06:56.698 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Content-Type: application/json
+
+2020.09.23 01:06:56.698 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Transfer-Encoding: chunked
+
+2020.09.23 01:06:56.698 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Connection: keep-alive
+
+2020.09.23 01:06:56.699 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Origin: *
+
+2020.09.23 01:06:56.699 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+
+2020.09.23 01:06:56.699 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+
+2020.09.23 01:06:56.700 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Server: Jetty(9.2.9.v20150224)
+
+2020.09.23 01:07:52.250 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - ---------------------------- Executing login ----------------------------
+2020.09.23 01:07:52.883 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass logger user has been logged in successfully!
+2020.09.23 01:07:52.885 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - Response Headers:
+2020.09.23 01:07:52.885 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - =================
+2020.09.23 01:07:52.886 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Date: Wed, 23 Sep 2020 06:07:52 GMT
+2020.09.23 01:07:52.886 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Content-Type: application/json
+2020.09.23 01:07:52.886 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Transfer-Encoding: chunked
+2020.09.23 01:07:52.887 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Connection: keep-alive
+2020.09.23 01:07:52.887 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Origin: *
+2020.09.23 01:07:52.887 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+2020.09.23 01:07:52.888 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+2020.09.23 01:07:52.888 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass X-Expires-After: Wed Sep 23 07:07:52 UTC 2020
+2020.09.23 01:07:52.888 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass X-Rate-Limit: 5000
+2020.09.23 01:07:52.888 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Server: Jetty(9.2.9.v20150224)
+2020.09.23 01:07:52.895 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - ---------------------------- Executing logout ----------------------------
+2020.09.23 01:07:53.133 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Logged out successfully!
+2020.09.23 01:07:53.135 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - Response Headers:
+2020.09.23 01:07:53.136 -  INFO - TestNG-tests-1 - GetAPITest.java:126 - =================
+2020.09.23 01:07:53.138 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Date: Wed, 23 Sep 2020 06:07:53 GMT
+2020.09.23 01:07:53.139 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Content-Type: application/json
+2020.09.23 01:07:53.139 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Transfer-Encoding: chunked
+2020.09.23 01:07:53.139 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Connection: keep-alive
+2020.09.23 01:07:53.140 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Origin: *
+2020.09.23 01:07:53.140 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+2020.09.23 01:07:53.140 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+2020.09.23 01:07:53.140 -  INFO - TestNG-tests-1 - GetAPITest.java:123 - pass Server: Jetty(9.2.9.v20150224)
+2020.09.23 01:12:30.747 -  INFO - main - PutAndDeleteAPITest.java:125 - ---------------------------- Executing deleteAUser ----------------------------
+2020.09.23 01:12:31.501 -  INFO - main - PutAndDeleteAPITest.java:122 - logger user has been deleted in successfully!
+2020.09.23 01:12:31.505 -  INFO - main - PutAndDeleteAPITest.java:125 - ---------------------------- Executing updateAUser ----------------------------
+2020.09.23 01:12:31.806 -  INFO - main - PutAndDeleteAPITest.java:122 - logger user has been updated in successfully!
+2020.09.23 01:22:12.112 -  INFO - main - TestBase.java:42 - ---------------------------- Executing deleteAUser ----------------------------
+2020.09.23 01:22:12.792 -  INFO - main - TestBase.java:39 - pass logger user has been deleted in successfully!
+2020.09.23 01:22:12.792 -  INFO - main - TestBase.java:42 - Response Headers:
+2020.09.23 01:22:12.793 -  INFO - main - TestBase.java:42 - =================
+2020.09.23 01:22:12.793 -  INFO - main - TestBase.java:39 - pass Date: Wed, 23 Sep 2020 06:22:12 GMT
+2020.09.23 01:22:12.793 -  INFO - main - TestBase.java:39 - pass Content-Type: application/json
+2020.09.23 01:22:12.794 -  INFO - main - TestBase.java:39 - pass Transfer-Encoding: chunked
+2020.09.23 01:22:12.794 -  INFO - main - TestBase.java:39 - pass Connection: keep-alive
+2020.09.23 01:22:12.794 -  INFO - main - TestBase.java:39 - pass Access-Control-Allow-Origin: *
+2020.09.23 01:22:12.795 -  INFO - main - TestBase.java:39 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+2020.09.23 01:22:12.795 -  INFO - main - TestBase.java:39 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+2020.09.23 01:22:12.795 -  INFO - main - TestBase.java:39 - pass Server: Jetty(9.2.9.v20150224)
+2020.09.23 01:22:12.800 -  INFO - main - TestBase.java:42 - ---------------------------- Executing updateAUser ----------------------------
+2020.09.23 01:22:13.102 -  INFO - main - TestBase.java:39 - pass logger user has been updated in successfully!
+2020.09.23 01:22:13.103 -  INFO - main - TestBase.java:42 - Response Headers:
+2020.09.23 01:22:13.103 -  INFO - main - TestBase.java:42 - =================
+2020.09.23 01:22:13.105 -  INFO - main - TestBase.java:39 - pass Date: Wed, 23 Sep 2020 06:22:13 GMT
+2020.09.23 01:22:13.105 -  INFO - main - TestBase.java:39 - pass Content-Type: application/json
+2020.09.23 01:22:13.106 -  INFO - main - TestBase.java:39 - pass Transfer-Encoding: chunked
+2020.09.23 01:22:13.106 -  INFO - main - TestBase.java:39 - pass Connection: keep-alive
+2020.09.23 01:22:13.106 -  INFO - main - TestBase.java:39 - pass Access-Control-Allow-Origin: *
+2020.09.23 01:22:13.107 -  INFO - main - TestBase.java:39 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+2020.09.23 01:22:13.107 -  INFO - main - TestBase.java:39 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+2020.09.23 01:22:13.107 -  INFO - main - TestBase.java:39 - pass Server: Jetty(9.2.9.v20150224)
+2020.09.23 01:36:43.187 -  INFO - TestNG-tests-1 - TestBase.java:42 - ---------------------------- Executing deleteAUser ----------------------------
+2020.09.23 01:36:43.889 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass logger user has been deleted in successfully!
+2020.09.23 01:36:43.889 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 01:36:43.890 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 01:36:43.890 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Date: Wed, 23 Sep 2020 06:36:43 GMT
+2020.09.23 01:36:43.890 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Content-Type: application/json
+2020.09.23 01:36:43.890 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Transfer-Encoding: chunked
+2020.09.23 01:36:43.891 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Connection: keep-alive
+2020.09.23 01:36:43.891 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Origin: *
+2020.09.23 01:36:43.891 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+2020.09.23 01:36:43.892 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+2020.09.23 01:36:43.892 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Server: Jetty(9.2.9.v20150224)
+2020.09.23 01:36:43.898 -  INFO - TestNG-tests-1 - TestBase.java:42 - ---------------------------- Executing login ----------------------------
+2020.09.23 01:36:44.137 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass logger user has been logged in successfully!
+2020.09.23 01:36:44.140 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 01:36:44.140 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 01:36:44.142 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 01:36:44.142 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 01:36:44.142 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Date: Wed, 23 Sep 2020 06:36:44 GMT
+2020.09.23 01:36:44.143 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Content-Type: application/json
+2020.09.23 01:36:44.143 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Transfer-Encoding: chunked
+2020.09.23 01:36:44.143 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Connection: keep-alive
+2020.09.23 01:36:44.144 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Origin: *
+2020.09.23 01:36:44.144 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+2020.09.23 01:36:44.144 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+2020.09.23 01:36:44.144 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass X-Expires-After: Wed Sep 23 07:36:44 UTC 2020
+2020.09.23 01:36:44.145 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass X-Rate-Limit: 5000
+2020.09.23 01:36:44.145 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Server: Jetty(9.2.9.v20150224)
+2020.09.23 01:36:44.147 -  INFO - TestNG-tests-1 - TestBase.java:42 - ---------------------------- Executing updateAUser ----------------------------
+2020.09.23 01:36:44.408 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass logger user has been updated in successfully!
+2020.09.23 01:36:44.409 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 01:36:44.409 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 01:36:44.409 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Date: Wed, 23 Sep 2020 06:36:44 GMT
+2020.09.23 01:36:44.410 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Content-Type: application/json
+2020.09.23 01:36:44.410 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Transfer-Encoding: chunked
+2020.09.23 01:36:44.410 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Connection: keep-alive
+2020.09.23 01:36:44.410 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Origin: *
+2020.09.23 01:36:44.411 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+2020.09.23 01:36:44.411 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+2020.09.23 01:36:44.411 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Server: Jetty(9.2.9.v20150224)
+2020.09.23 01:36:44.413 -  INFO - TestNG-tests-1 - TestBase.java:42 - ---------------------------- Executing logout ----------------------------
+2020.09.23 01:36:44.644 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Logged out successfully!
+2020.09.23 01:36:44.644 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 01:36:44.645 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 01:36:44.645 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 01:36:44.646 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 01:36:44.646 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Date: Wed, 23 Sep 2020 06:36:44 GMT
+2020.09.23 01:36:44.646 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Content-Type: application/json
+2020.09.23 01:36:44.647 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Transfer-Encoding: chunked
+2020.09.23 01:36:44.647 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Connection: keep-alive
+2020.09.23 01:36:44.647 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Origin: *
+2020.09.23 01:36:44.647 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+2020.09.23 01:36:44.648 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+2020.09.23 01:36:44.648 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Server: Jetty(9.2.9.v20150224)
+2020.09.23 01:38:17.867 -  INFO - TestNG-tests-1 - TestBase.java:42 - ---------------------------- Executing deleteAUser ----------------------------
+2020.09.23 01:38:18.609 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass logger user has been deleted in successfully!
+2020.09.23 01:38:18.609 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 01:38:18.610 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 01:38:18.610 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Date: Wed, 23 Sep 2020 06:38:18 GMT
+2020.09.23 01:38:18.610 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Content-Type: application/json
+2020.09.23 01:38:18.611 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Transfer-Encoding: chunked
+2020.09.23 01:38:18.611 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Connection: keep-alive
+2020.09.23 01:38:18.611 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Origin: *
+2020.09.23 01:38:18.611 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+2020.09.23 01:38:18.612 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+2020.09.23 01:38:18.612 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Server: Jetty(9.2.9.v20150224)
+2020.09.23 01:38:18.618 -  INFO - TestNG-tests-1 - TestBase.java:42 - ---------------------------- Executing login ----------------------------
+2020.09.23 01:38:18.846 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass logger user has been logged in successfully!
+2020.09.23 01:38:18.850 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 01:38:18.851 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 01:38:18.852 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 01:38:18.853 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 01:38:18.853 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Date: Wed, 23 Sep 2020 06:38:18 GMT
+2020.09.23 01:38:18.853 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Content-Type: application/json
+2020.09.23 01:38:18.854 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Transfer-Encoding: chunked
+2020.09.23 01:38:18.854 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Connection: keep-alive
+2020.09.23 01:38:18.854 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Origin: *
+2020.09.23 01:38:18.855 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+2020.09.23 01:38:18.855 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+2020.09.23 01:38:18.855 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass X-Expires-After: Wed Sep 23 07:38:18 UTC 2020
+2020.09.23 01:38:18.856 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass X-Rate-Limit: 5000
+2020.09.23 01:38:18.856 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Server: Jetty(9.2.9.v20150224)
+2020.09.23 01:38:18.858 -  INFO - TestNG-tests-1 - TestBase.java:42 - ---------------------------- Executing updateAUser ----------------------------
+2020.09.23 01:38:19.136 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass logger user has been updated in successfully!
+2020.09.23 01:38:19.137 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 01:38:19.137 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 01:38:19.137 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Date: Wed, 23 Sep 2020 06:38:19 GMT
+2020.09.23 01:38:19.138 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Content-Type: application/json
+2020.09.23 01:38:19.138 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Transfer-Encoding: chunked
+2020.09.23 01:38:19.139 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Connection: keep-alive
+2020.09.23 01:38:19.139 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Origin: *
+2020.09.23 01:38:19.139 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+2020.09.23 01:38:19.140 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+2020.09.23 01:38:19.140 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Server: Jetty(9.2.9.v20150224)
+2020.09.23 01:38:19.142 -  INFO - TestNG-tests-1 - TestBase.java:42 - ---------------------------- Executing logout ----------------------------
+2020.09.23 01:38:19.376 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Logged out successfully!
+2020.09.23 01:38:19.377 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 01:38:19.377 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 01:38:19.380 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 01:38:19.381 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 01:38:19.381 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Date: Wed, 23 Sep 2020 06:38:19 GMT
+2020.09.23 01:38:19.381 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Content-Type: application/json
+2020.09.23 01:38:19.382 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Transfer-Encoding: chunked
+2020.09.23 01:38:19.382 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Connection: keep-alive
+2020.09.23 01:38:19.382 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Origin: *
+2020.09.23 01:38:19.383 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+2020.09.23 01:38:19.383 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+2020.09.23 01:38:19.383 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Server: Jetty(9.2.9.v20150224)
+2020.09.23 01:41:47.490 -  INFO - TestNG-tests-1 - TestBase.java:42 - ---------------------------- Executing deleteAUser ----------------------------
+2020.09.23 01:41:48.201 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass logger user has been deleted in successfully!
+2020.09.23 01:41:48.202 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 01:41:48.202 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 01:41:48.202 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Date: Wed, 23 Sep 2020 06:41:48 GMT
+2020.09.23 01:41:48.203 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Content-Type: application/json
+2020.09.23 01:41:48.203 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Transfer-Encoding: chunked
+2020.09.23 01:41:48.203 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Connection: keep-alive
+2020.09.23 01:41:48.204 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Origin: *
+2020.09.23 01:41:48.204 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+2020.09.23 01:41:48.204 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+2020.09.23 01:41:48.205 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Server: Jetty(9.2.9.v20150224)
+2020.09.23 01:41:48.210 -  INFO - TestNG-tests-1 - TestBase.java:42 - ---------------------------- Executing login ----------------------------
+2020.09.23 01:41:48.457 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass logger user has been logged in successfully!
+2020.09.23 01:41:48.460 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 01:41:48.460 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 01:41:48.461 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 01:41:48.462 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 01:41:48.462 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Date: Wed, 23 Sep 2020 06:41:48 GMT
+2020.09.23 01:41:48.462 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Content-Type: application/json
+2020.09.23 01:41:48.463 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Transfer-Encoding: chunked
+2020.09.23 01:41:48.463 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Connection: keep-alive
+2020.09.23 01:41:48.463 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Origin: *
+2020.09.23 01:41:48.464 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+2020.09.23 01:41:48.464 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+2020.09.23 01:41:48.464 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass X-Expires-After: Wed Sep 23 07:41:48 UTC 2020
+2020.09.23 01:41:48.464 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass X-Rate-Limit: 5000
+2020.09.23 01:41:48.465 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Server: Jetty(9.2.9.v20150224)
+2020.09.23 01:41:48.467 -  INFO - TestNG-tests-1 - TestBase.java:42 - ---------------------------- Executing updateAUser ----------------------------
+2020.09.23 01:41:48.738 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass logger user has been updated in successfully!
+2020.09.23 01:41:48.739 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 01:41:48.739 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 01:41:48.740 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Date: Wed, 23 Sep 2020 06:41:48 GMT
+2020.09.23 01:41:48.740 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Content-Type: application/json
+2020.09.23 01:41:48.741 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Transfer-Encoding: chunked
+2020.09.23 01:41:48.741 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Connection: keep-alive
+2020.09.23 01:41:48.741 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Origin: *
+2020.09.23 01:41:48.742 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+2020.09.23 01:41:48.742 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+2020.09.23 01:41:48.742 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Server: Jetty(9.2.9.v20150224)
+2020.09.23 01:41:48.744 -  INFO - TestNG-tests-1 - TestBase.java:42 - ---------------------------- Executing logout ----------------------------
+2020.09.23 01:41:48.987 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Logged out successfully!
+2020.09.23 01:41:48.988 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 01:41:48.988 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 01:41:48.991 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 01:41:48.992 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 01:41:48.992 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Date: Wed, 23 Sep 2020 06:41:48 GMT
+2020.09.23 01:41:48.992 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Content-Type: application/json
+2020.09.23 01:41:48.993 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Transfer-Encoding: chunked
+2020.09.23 01:41:48.993 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Connection: keep-alive
+2020.09.23 01:41:48.993 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Origin: *
+2020.09.23 01:41:48.993 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+2020.09.23 01:41:48.994 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+2020.09.23 01:41:48.994 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Server: Jetty(9.2.9.v20150224)
+2020.09.23 02:08:32.313 -  INFO - TestNG-tests-1 - TestBase.java:42 - ---------------------------- Executing deleteAUser ----------------------------
+2020.09.23 02:08:33.774 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass logger user has been deleted in successfully!
+2020.09.23 02:08:33.775 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 02:08:33.775 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 02:08:33.776 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Date: Wed, 23 Sep 2020 07:08:33 GMT
+2020.09.23 02:08:33.776 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Content-Type: application/json
+2020.09.23 02:08:33.776 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Transfer-Encoding: chunked
+2020.09.23 02:08:33.777 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Connection: keep-alive
+2020.09.23 02:08:33.777 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Origin: *
+2020.09.23 02:08:33.778 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+2020.09.23 02:08:33.778 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+2020.09.23 02:08:33.778 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Server: Jetty(9.2.9.v20150224)
+2020.09.23 02:08:33.784 -  INFO - TestNG-tests-1 - TestBase.java:42 - ---------------------------- Executing login ----------------------------
+2020.09.23 02:08:33.975 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass logger user has been logged in successfully!
+2020.09.23 02:08:33.976 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 02:08:33.977 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 02:08:33.978 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 02:08:33.979 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 02:08:33.979 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Date: Wed, 23 Sep 2020 07:08:33 GMT
+2020.09.23 02:08:33.979 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Content-Type: application/json
+2020.09.23 02:08:33.980 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Transfer-Encoding: chunked
+2020.09.23 02:08:33.980 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Connection: keep-alive
+2020.09.23 02:08:33.981 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Origin: *
+2020.09.23 02:08:33.981 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+2020.09.23 02:08:33.981 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+2020.09.23 02:08:33.982 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass X-Expires-After: Wed Sep 23 08:08:33 UTC 2020
+2020.09.23 02:08:33.982 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass X-Rate-Limit: 5000
+2020.09.23 02:08:33.982 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Server: Jetty(9.2.9.v20150224)
+2020.09.23 02:08:33.984 -  INFO - TestNG-tests-1 - TestBase.java:42 - ---------------------------- Executing updateAUser ----------------------------
+2020.09.23 02:08:34.213 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass logger user has been updated in successfully!
+2020.09.23 02:08:34.214 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 02:08:34.214 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 02:08:34.215 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Date: Wed, 23 Sep 2020 07:08:34 GMT
+2020.09.23 02:08:34.215 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Content-Type: application/json
+2020.09.23 02:08:34.215 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Transfer-Encoding: chunked
+2020.09.23 02:08:34.216 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Connection: keep-alive
+2020.09.23 02:08:34.216 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Origin: *
+2020.09.23 02:08:34.217 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+2020.09.23 02:08:34.217 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+2020.09.23 02:08:34.217 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Server: Jetty(9.2.9.v20150224)
+2020.09.23 02:08:34.219 -  INFO - TestNG-tests-1 - TestBase.java:42 - ---------------------------- Executing logout ----------------------------
+2020.09.23 02:08:34.421 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Logged out successfully!
+2020.09.23 02:08:34.421 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 02:08:34.422 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 02:08:34.422 -  INFO - TestNG-tests-1 - TestBase.java:42 - Response Headers:
+2020.09.23 02:08:34.423 -  INFO - TestNG-tests-1 - TestBase.java:42 - =================
+2020.09.23 02:08:34.423 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Date: Wed, 23 Sep 2020 07:08:34 GMT
+2020.09.23 02:08:34.423 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Content-Type: application/json
+2020.09.23 02:08:34.424 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Transfer-Encoding: chunked
+2020.09.23 02:08:34.424 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Connection: keep-alive
+2020.09.23 02:08:34.425 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Origin: *
+2020.09.23 02:08:34.425 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+2020.09.23 02:08:34.426 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+2020.09.23 02:08:34.426 -  INFO - TestNG-tests-1 - TestBase.java:39 - pass Server: Jetty(9.2.9.v20150224)

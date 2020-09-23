@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Apple Get API Tests" parallel="tests" thread-count="1">
+
+    <parameter name="testEnv" value="TEST"/>
+    <parameter name="groups" value="smoke"/>
+
+    <test verbose="1" name="API Tests">
+        <method-selectors>
+            <method-selector>
+                <script language="beanshell">
+                    <![CDATA[whatGroup = System.getProperty("groups")!=null? System.getProperty("groups").toLowerCase():"smoke";
+                (groups.containsKey(whatGroup) || testngMethod.getGroups().length == 0);
+                ]]>
+                </script>
+            </method-selector>
+        </method-selectors>
+        <classes>
+            <class name="apple.apitests.APITests"/>
+        </classes>
+    </test>
+</suite>
